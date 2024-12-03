@@ -1,6 +1,6 @@
 # 🌐 Corso Website
 
-Welcome to the **Corso Website** project! This project is part of the **Bootstrap Course Coding Challenges** and is designed to help in practicing and enhancing coding in **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
+Welcome to the **Corso Website** project! This project is mainly dependent on **Bootstrap 5** and is designed to help in practicing and enhancing coding in **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**.
 
 ## 📁 Project Structure
 
@@ -33,7 +33,7 @@ corso-training-website
 
 Here is a screenshot of the Corso Website dashboard:
 
-![Dashboard Screenshot](images/screen.jpg)
+![Dashboard Screenshot](images/screen.png)
 
 ## 🚀 Getting Started
 
