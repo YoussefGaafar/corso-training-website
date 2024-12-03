@@ -25,7 +25,7 @@ corso-training-website
 
 - **Responsive Design**: The website is fully responsive and looks great on all devices.
 - **Bootstrap Integration**: Utilizes Bootstrap for styling and layout.
-- **Custom CSS**: Additional custom styles to enhance the look and feel.
+- **Custom SCSS**: Additional custom styles to enhance the look and feel.
 - **Interactive Elements**: JavaScript for interactive components.
 - **Modern UI/UX**: Clean and modern design to provide a great user experience.
 
@@ -52,7 +52,7 @@ To get started with the project, follow these steps:
 ## 🛠️ Usage
 
 - **HTML**: The main structure of the website is defined in `index.html`.
-- **CSS**: Custom styles are located in `css/styles.css`. Bootstrap styles are in `css/bootstrap.min.css`.
+- **SCSS**: Custom styles are located in `scss/styles.css`. Bootstrap styles are in `scss/bootstrap.scss`.
 - **JavaScript**: Interactive functionality is implemented in `js/scripts.js`. Bootstrap scripts are in `js/bootstrap.min.js`.
 - **Images**: All images used in the project are stored in the `images/` directory.
 
