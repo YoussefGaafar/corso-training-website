@@ -18,9 +18,7 @@ corso-training-website
 │   ├── scripts.js
 │   └── bootstrap.min.js
 ├── images/
-│   ├── logo.png
-│   └── banner.jpg
-└── README.md
+├── README
 ```
 
 ## ✨ Features
@@ -43,11 +41,11 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https
+   git clone https://github.com/YoussefGaafar/corso-training-website.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd /d:/Education/HTML_CSS_JS_Learning/Bootstrap_Course_Coding_Challenges/4 - Websites Projects/2 - Corso Website/
+   cd corso-training-website
    ```
 3. **Open `index.html` in your browser** to view the website.
 
